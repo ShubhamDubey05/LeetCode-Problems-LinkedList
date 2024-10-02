@@ -1,5 +1,5 @@
 
-public class LinkedList1 {
+public class NodedeleteFromEnd{
 
     public class Node {
         int val;
