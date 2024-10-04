@@ -1,4 +1,4 @@
-
+package singlyLinkedList;
 
 class Solution {
      static ListNode deleteMiddle(ListNode head) {

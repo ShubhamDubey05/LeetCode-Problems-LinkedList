@@ -1,8 +1,5 @@
-
-
-
-
-  class ListNode {
+package singlyLinkedList;
+class ListNode {
         int val;
          ListNode next;
        ListNode() {}

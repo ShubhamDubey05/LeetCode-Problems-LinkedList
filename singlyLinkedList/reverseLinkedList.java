@@ -1,3 +1,4 @@
+package singlyLinkedList;
 class LinkedList{
 
     class Node{

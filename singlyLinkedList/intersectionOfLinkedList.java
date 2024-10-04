@@ -1,3 +1,6 @@
+package singlyLinkedList;
+
+
 public class intersectionOfLinkedList {
     public class ListNode {
         int val;

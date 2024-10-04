@@ -1,3 +1,5 @@
+package singlyLinkedList;
+ 
  class ListNode {
         int val;
          ListNode next;
@@ -34,13 +36,6 @@
          return head.next;
        }
    }
-
-
-
-
-
-
-
 
 
 
